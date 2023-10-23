@@ -18,7 +18,7 @@ with col2:
     this includes Django, Flask, MySQL, API's, HTML, Git etc. 
     
     I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out through the 
-    contact information provided on the left in my portfolio.
+    contact information provided on the left in my portfolio or email me diamantopoulos.kostas@
     Thank you for taking the time to explore my portfolio. I look forward to connecting and collaborating with others 
     in the software development community. """
 
