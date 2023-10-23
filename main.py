@@ -4,16 +4,18 @@ import pandas
 st.set_page_config(layout="wide")
 col1, col2 = st.columns(2)
 
+
 with col1:
     st.image("images/profile.jpg", width=500)
     ###can add images/photo.png, width=600)
 
+
 with col2:
     st.title("Kostas Diamantopoulos")
     content = """
-    Welcome to my software development portfolio! I am a passionate about software developing looking to get into the 
-    tech industry. In this portfolio you will discover a variety of projects i have created with Python, this includes 
-    Django, Flask, MySQL, API's, HTML, Git etc. 
+    Welcome to my software development portfolio! I am a passionate about software developing looking to change my carrer 
+    and get into the tech industry. In this portfolio you will discover a variety of projects i have created with Python (windows and linux), 
+    this includes Django, Flask, MySQL, API's, HTML, Git etc. 
     
     I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out through the 
     contact information provided on the left in my portfolio.
