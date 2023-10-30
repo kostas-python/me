@@ -5,7 +5,7 @@ PDF Templates;A script that generates PDF templates of multiple pages given some
 PDF Invoices;A script that reads invoice records from Excel files and automatically generates PDF invoices.;https://github.com/kostas-python/app5-invoices-excel.git;4.png
 Daily News;Get The Daily News To Your Email With This App.;https://github.com/kostas-python/Daily-news-request.git;5.png
 Weather API;A REST API built with Python and Flask to serve historical weather data for various cities.;https://github.com/kostas-python/app6-weather-flask.git;6.png
-Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/kostas-python/app10-scraping.git;8.png
+Tour Scraper;A program that checks a music band's website and sends an email when there are new tours.;https://github.com/kostas-python/app10_Scraping-sql.git;8.png
 Helper Chatbot;A chatbot that knows about a specific topic and answers questions regarding that topic.;https://github.com/kostas-python/app15-chatbox-gpt.git;9.png
 Super Mario Bros;Forked For Code Inspection (OOP) Using The Mario Game App.;https://github.com/kostas-python/super-mario-python.git;mario.jpg
 Webcam Motion Detector;A program that monitors the computer webcam and sends an email when a new object enters the view.;https://github.com/kostas-python/app9-webcam.git;11.png
