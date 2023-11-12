@@ -13,21 +13,17 @@ with col1:
 with col2:
     st.title("Kostas Diamantopoulos")
     content = """
-    Welcome to my software development portfolio! I am a passionate about software developing looking to change my carrer 
-    and get into the tech industry. In this portfolio you will discover a variety of projects i have created with Python (windows and linux), 
-    this includes Django, Flask, MySQL, API's, HTML, Git etc. 
+    Welcome to my software development portfolio!I am a passionate about software developing looking to change my career 
+    and get into the tech industry. In this portfolio you will discover a variety of projects i have created with Python
+    with Django, Flask, MySQL databases, API's, Jupyter notebook, Bootstrap, Css, HTML, Git, Anacondas.
+    I am familiar with windows and Linux-Debian.
     
-    I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out through the 
-    contact information provided on the left in my portfolio or email me diamantopoulos.kostas@
-    Thank you for taking the time to explore my portfolio. I look forward to connecting and collaborating with others 
-    in the software development community. """
+    I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out to my email
+    kostas.diam@hotmail.com. Thank you for taking the time to explore my portfolio. I look forward to connecting and
+    collaborating with others in the software development community. """
 
     st.info(content)
 
-#content2 = """
-#bla bla blaaaaaaaaaa"""
-
-#st.write(content2)
 
 col3, empty_col,  col4 = st.columns([1.5, 0.5, 1.5])
 
