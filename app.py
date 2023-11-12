@@ -13,10 +13,11 @@ with col2:
     content = """
     Welcome to my software development portfolio! I am a passionate about software developing looking to get into the 
     tech industry. In this portfolio you will discover a variety of projects i have created with Python, this includes 
-    Django, Flask, MySQL, API's, HTML, Git etc. 
+    Django, Flask, MySQL databases, Jupyter notebook, API's, HTML, Git,Bootstrap, Css .
+    I am also familiar wit the linux system Debian.
     
-    I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out through the 
-    contact information provided on the left in my portfolio.
+    I'm always open to new opportunities. If you'd like to get in touch, please feel free to reach out through my email
+    kostas.diam@hotmail.com.
     Thank you for taking the time to explore my portfolio. I look forward to connecting and collaborating with others 
     in the software development community. """
 
